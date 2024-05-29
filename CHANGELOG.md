@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.3] - 2024-05-29
+
+### 🚜 Refactor
+
+- Modification du contenu du titre de la page d'accueil
+
 ## [1.0.2] - 2024-05-29
 
 ### 📚 Documentation
