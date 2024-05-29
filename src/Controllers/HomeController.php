@@ -14,7 +14,7 @@ class HomeController extends Controller
 
         // Affichage du template
         return $this->renderView('home/index.html.php', [
-            'title' => 'Un titre',
+            'title' => 'Nos plâts',
             'meals' => $meals
         ]);
 
