@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.0.2] - 2024-05-29
+
+### 📚 Documentation
+
+- Première génération du fichier CHNAGELOG
+
 ## [1.0.1] - 2024-05-29
 
 ### 🐛 Bug Fixes
